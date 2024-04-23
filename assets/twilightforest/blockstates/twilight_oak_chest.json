@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=east,type=single": {
+      "y": 90,
+      "model": "twilightforest:entity/twilight_oak_chest_single"
+    },
+    "facing=north,type=single": {
+      "y": 0,
+      "model": "twilightforest:entity/twilight_oak_chest_single"
+    },
+    "facing=south,type=single": {
+      "y": 180,
+      "model": "twilightforest:entity/twilight_oak_chest_single"
+    },
+    "facing=west,type=single": {
+      "y": 270,
+      "model": "twilightforest:entity/twilight_oak_chest_single"
+    },
+    "facing=east,type=left": {
+      "y": 90,
+      "model": "twilightforest:entity/twilight_oak_chest_left"
+    },
+    "facing=north,type=left": {
+      "y": 0,
+      "model": "twilightforest:entity/twilight_oak_chest_left"
+    },
+    "facing=south,type=left": {
+      "y": 180,
+      "model": "twilightforest:entity/twilight_oak_chest_left"
+    },
+    "facing=west,type=left": {
+      "y": 270,
+      "model": "twilightforest:entity/twilight_oak_chest_left"
+    },
+    "facing=east,type=right": {
+      "y": 90,
+      "model": "twilightforest:entity/twilight_oak_chest_right"
+    },
+    "facing=north,type=right": {
+      "y": 0,
+      "model": "twilightforest:entity/twilight_oak_chest_right"
+    },
+    "facing=south,type=right": {
+      "y": 180,
+      "model": "twilightforest:entity/twilight_oak_chest_right"
+    },
+    "facing=west,type=right": {
+      "y": 270,
+      "model": "twilightforest:entity/twilight_oak_chest_right"
+    }
+  }
+}

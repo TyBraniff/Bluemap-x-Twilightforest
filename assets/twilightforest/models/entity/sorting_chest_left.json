@@ -1,0 +1,36 @@
+{
+	"credit": "Model generated BlockBench made by TyBraniff for Bluemaps",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "twilightforest:entity/chest/sorting/left",
+		"particle": "twilightforest:entity/chest/sorting/left"
+	},
+	"elements": [
+		{
+			"name": "Base",
+			"from": [1, 0, 1],
+			"to": [16, 10, 15],
+			"faces": {
+				"north": {"uv": [3.5, 8.25, 7.25, 10.75], "texture": "#0"},
+				"east": {"uv": [0, 8.25, 3.5, 10.75], "texture": "#0"},
+				"south": {"uv": [10.75, 8.25, 14.5, 10.75], "texture": "#0"},
+				"west": {"uv": [7.25, 8.25, 10.75, 10.75], "texture": "#0"},
+				"up": {"uv": [3.25, 8.25, 0, 4.75], "texture": "#0"},
+				"down": {"uv": [7.25, 4.75, 3.5, 8.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Lid",
+			"from": [1, 10, 1],
+			"to": [16, 14, 15],
+			"faces": {
+				"north": {"uv": [14.5, 3.5, 10.75, 4.75], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 3.5, 4.75], "texture": "#0"},
+				"south": {"uv": [7.25, 3.5, 3.5, 4.75], "texture": "#0"},
+				"west": {"uv": [7.25, 3.5, 10.75, 4.75], "texture": "#0"},
+				"up": {"uv": [11, 3.5, 7.25, 0], "texture": "#0"},
+				"down": {"uv": [3.5, 0, 0, 3.5], "texture": "#0"}
+			}
+		}
+	]
+}
