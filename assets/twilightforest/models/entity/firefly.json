@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by TyBraniff for Bluemap",
 	"texture_size": [64, 32],
 	"textures": {
-		"1": "twilightforest:entity/firefly-tiny"
+		"1": "twilightforest:model/firefly-tiny"
 	},
 	"elements": [
 		{
