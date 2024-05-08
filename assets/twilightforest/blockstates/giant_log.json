@@ -1,0 +1,54 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "twilightforest:block/giant_log_1"
+            },
+            {
+                "model": "twilightforest:block/giant_log_2"
+            },
+            {
+                "model": "twilightforest:block/giant_log_3"
+            },
+            {
+                "model": "twilightforest:block/giant_log_4"
+            },
+            {
+                "model": "twilightforest:block/giant_log_5"
+            },
+            {
+                "model": "twilightforest:block/giant_log_6"
+            },
+            {
+                "model": "twilightforest:block/giant_log_7"
+            },
+            {
+                "model": "twilightforest:block/giant_log_8"
+            },
+            {
+                "model": "twilightforest:block/giant_log_9"
+            },
+            {
+                "model": "twilightforest:block/giant_log_10"
+            },
+            {
+                "model": "twilightforest:block/giant_log_11"
+            },
+            {
+                "model": "twilightforest:block/giant_log_12"
+            },
+            {
+                "model": "twilightforest:block/giant_log_13"
+            },
+            {
+                "model": "twilightforest:block/giant_log_14"
+            },
+            {
+                "model": "twilightforest:block/giant_log_15"
+            },
+            {
+                "model": "twilightforest:block/giant_log_16"
+            }
+        ]
+    }
+}

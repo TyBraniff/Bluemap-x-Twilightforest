@@ -1,7 +1,54 @@
 {
-  "variants": {
-    "": {
-      "model": "twilightforest:block/giant_cobblestone"
+    "variants": {
+        "": [
+            {
+                "model": "twilightforest:block/giant_cobblestone_1"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_2"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_3"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_4"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_5"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_6"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_7"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_8"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_9"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_10"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_11"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_12"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_13"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_14"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_15"
+            },
+            {
+                "model": "twilightforest:block/giant_cobblestone_16"
+            }
+        ]
     }
-  }
 }

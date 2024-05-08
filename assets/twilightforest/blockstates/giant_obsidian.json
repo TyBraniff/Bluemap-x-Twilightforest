@@ -1,7 +1,54 @@
 {
-  "variants": {
-    "": {
-      "model": "twilightforest:block/giant_obsidian"
+    "variants": {
+        "": [
+            {
+                "model": "twilightforest:block/giant_obsidian_1"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_2"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_3"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_4"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_5"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_6"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_7"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_8"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_9"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_10"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_11"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_12"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_13"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_14"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_15"
+            },
+            {
+                "model": "twilightforest:block/giant_obsidian_16"
+            }
+        ]
     }
-  }
 }

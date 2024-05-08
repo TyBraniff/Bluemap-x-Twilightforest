@@ -1,7 +1,54 @@
 {
-  "variants": {
-    "": {
-      "model": "twilightforest:block/giant_leaves"
+    "variants": {
+        "": [
+            {
+                "model": "twilightforest:block/giant_leaves_1"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_2"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_3"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_4"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_5"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_6"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_7"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_8"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_9"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_10"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_11"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_12"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_13"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_14"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_15"
+            },
+            {
+                "model": "twilightforest:block/giant_leaves_16"
+            }
+        ]
     }
-  }
 }
