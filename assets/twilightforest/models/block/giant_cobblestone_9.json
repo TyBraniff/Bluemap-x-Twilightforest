@@ -1,6 +1,6 @@
 {
     "credit": "Made with Blockbench by TyBraniff for use with Bluemap x TwilightForest",
-    "parent": "twilightforest:block/giant_block_1",
+    "parent": "twilightforest:block/giant_block_9",
     "textures": {
 		"texture": "minecraft:block/cobblestone"
     }

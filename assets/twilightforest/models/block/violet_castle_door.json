@@ -1,0 +1,8 @@
+{
+    "credit": "Made with Blockbench formated by TyBraniff for use with Bluemap x TwilightForest",
+    "parent": "twilightforest:block/magic_castle_block",
+    "textures": {
+		"0": "twilightforest:block/castle_door",
+        "rune": "twilightforest:block/castle_door_rune_corners"
+    }
+}
