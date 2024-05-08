@@ -1,0 +1,16 @@
+{
+    "twilightforest:violet_castle_rune_brick": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:pink_castle_rune_brick": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:blue_castle_rune_brick": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:yellow_castle_rune_brick": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:violet_force_field": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:pink_force_field": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:blue_force_field": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:green_force_field": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:orange_force_field": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:violet_castle_door": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:pink_castle_door": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:blue_castle_door": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:wispy_cloud": { "occluding": false, "cullingIdentical": true },
+    "twilightforest:yellow_castle_door": { "occluding": false, "cullingIdentical": true }
+}

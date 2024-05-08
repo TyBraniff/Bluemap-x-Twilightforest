@@ -1,3 +1,11 @@
 {
-  "twilightforest:giant_leaves": "#304c32"
+  "twilightforest:giant_leaves": "@foliage",
+  "twilightforest:violet_castle_rune_brick": "#5C1074",
+  "twilightforest:pink_castle_rune_brick": "#FF00FF",
+  "twilightforest:blue_castle_rune_brick": "#00FFFF",
+  "twilightforest:yellow_castle_rune_brick": "#FFFF00",
+  "twilightforest:violet_castle_door": "#5C1074",
+  "twilightforest:pink_castle_door": "#FF00FF",
+  "twilightforest:blue_castle_door": "#00FFFF",
+  "twilightforest:yellow_castle_door": "#FFFF00"
 }
